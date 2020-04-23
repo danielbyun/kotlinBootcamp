@@ -1,4 +1,4 @@
-package Lesson9ResultTypes
+package Lesson10ResultTypes
 
 fun main(args: Array<String>) {
     var bikes = 5;
